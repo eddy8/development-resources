@@ -10,3 +10,5 @@
 ## web移动端前端调试
  * [vConsole](https://github.com/Tencent/vConsole)
  * [Eruda](https://eruda.liriliri.io/)
+## H5调用APP
+ * [web-launch-app](https://github.com/jawidx/web-launch-app)
