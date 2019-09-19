@@ -4,6 +4,9 @@
 ## 任务管理
  * [jira](https://www.atlassian.com/zh/software/jira)
  * [tower](https://tower.im/)
+## 持续集成
+ * [Jenkins](https://jenkins.io)
+ * [GitLab](https://about.gitlab.com/)
 ## 版本控制
  * [git](https://git-scm.com/)
  * [svn](https://subversion.apache.org/)
